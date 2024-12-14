@@ -82,7 +82,9 @@ gap: 40px;
 
 }
 
-.nav-item {}
+.nav-item {
+    
+}
 
 .nav-item-link {
     font-weight: 500;
@@ -255,7 +257,7 @@ box-shadow: 0 2px 1px 0 rgba(46, 47, 66, 0.08),
  0 1px 1px 0 rgba(46, 47, 66, 0.16), 0 1px 6px 0 rgba(46, 47, 66, 0.08);
     background: #fff;
     border-radius: 0 0 4px 4px;
-        padding: 0px 0px 32px 0px;
+    
 }
 
 .ourteam-title {
@@ -363,7 +365,7 @@ color: #f4f4fd;
 }
 
 .footer-text {
-    
+
         display: block;
         max-width: 264px;
     font-weight: 400;
